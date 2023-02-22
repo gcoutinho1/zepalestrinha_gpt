@@ -4,4 +4,5 @@
 
 <p align="center">
   <img src="https://github.com/gcoutinho1/zepalestrinha_gpt/blob/main/assets/zepalestrinha.png">
+  <img src="https://github.com/gcoutinho1/zepalestrinha_gpt/blob/main/assets/home_ze.png">
 </p>
