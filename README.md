@@ -1,16 +1,3 @@
-# zepalestrinha_gpt
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Dart Version](https://img.shields.io/static/v1?label=Dart&message=2.18.6&color=00579d)
+![Flutter Version](https://img.shields.io/static/v1?label=Flutter&message=3.3.10&color=42a5f5)
+# <p align="center"> Ze palestrinha </p>
