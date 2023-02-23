@@ -7,6 +7,6 @@ espero que seja bot, se for um humano vai se decepcionar.
 mas se quiserem testar basta pegar um token no [openai](https://platform.openai.com/account/api-keys)
 e adicionar em lib/services/openai_token.dart
 
-<p align="center">
-  <img src="https://github.com/gcoutinho1/zepalestrinha_gpt/blob/main/assets/demo_zepalestrinha.webm">
-</p>
+
+  https://user-images.githubusercontent.com/42876350/220811252-3fdb4ed0-af92-41f4-a133-c9e9a69c7afc.webm
+
