@@ -3,7 +3,7 @@ import 'dart:async';
 import 'package:chat_gpt_sdk/chat_gpt_sdk.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter95/flutter95.dart';
-import 'package:zepalestrinha_gpt/services/open_ai_token.dart';
+import 'package:zepalestrinha_gpt/services/openai_token.dart';
 
 import 'widgets/chat_message.dart';
 
@@ -41,7 +41,6 @@ class _HomeScreenState extends State<HomeScreen> {
 
   @override
   Widget build(BuildContext context) {
-    // double height = MediaQuery.of(context).size.height;
     return Scaffold95(
       title: 'Ze Palestrinha',
       toolbar: Toolbar95(actions: [
